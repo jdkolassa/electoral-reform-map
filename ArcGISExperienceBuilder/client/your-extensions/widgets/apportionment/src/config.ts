@@ -5,6 +5,18 @@ export enum EModelType {
     REMAINDER = "LARGEST_REMAINDER"
 }
 
+export enum EQuotaType {
+    HARE = "HARE",
+    DROOP = "DROOP",
+    IMPERIALI = "IMPERIALI"
+}
+
+export enum EDivisor {
+    DHONDT = "D'HONDT",
+    SAINT = "SAINT-LAGUE",
+    HUNT = "HUNTINGTON-HILL"
+}
+
 export interface FederalState {
     name: string
     id: string
