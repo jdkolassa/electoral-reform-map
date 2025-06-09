@@ -1,0 +1,10 @@
+{
+  "exbVersion": "1.17.0",
+  "exbBuildNum": "VERSION_NAME_FROM_JENKINS",
+  "exbBuildCommit": "EXB_GIT_COMMIT_HASH",
+  "exbBuildBranch": "EXB_BRANCH",
+  "exbExtensionsBuildCommit": "EXB_EXT_GIT_COMMIT_HASH",
+  "exbExtensionsBuildBranch": "EXB_EXT_BRANCH",
+  "exbBuildDate": "BUILD_DATE_FROM_JENKINS",
+  "productVersion": "ArcGIS Experience Builder"
+}
