@@ -1,6 +1,5 @@
-/dist
-/node_modules
-/.env
-/.continue
-/.vscode
-/ArcGISExperienceBuilder/client/dist
+**/dist/
+**/node_modules/
+.env
+.continue
+.vscode
